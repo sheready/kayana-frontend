@@ -12,10 +12,13 @@ const Header = () => {
           </div>
           {/* menu items display after medium screen else hide the items */}
           <div class="hidden md:flex space-x-7">
-            <a href="#" class="hover:text-green">Home</a>
+            <a href="/" class="hover:text-green">Home</a>
             <a href="#" class="hover:text-green">Kayana Awards</a>
             <a href="#" class="hover:text-green">Kayana News</a>
+            <a href="#" class="hover:text-green">Kayana Pro</a>
+            <a href="/board" class="hover:text-green">Board of Directors</a>
             <a href="#" class="hover:text-green">Contact us</a>
+            
           </div>
           {/* donate button hidden in smaller screen and shown in large screens as block */}
           <a href='#' class="hidden md:block p-3 px-6 pt-2 mr-10 text-white bg-green rounded-full baseline hover:bg-gray">
