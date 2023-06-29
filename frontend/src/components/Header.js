@@ -14,7 +14,7 @@ const Header = () => {
           <div class="hidden md:flex space-x-7">
             <a href="/" class="hover:text-green">Home</a>
             <a href="#" class="hover:text-green">Kayana Awards</a>
-            <a href="#" class="hover:text-green">Kayana News</a>
+            <a href="/publications" class="hover:text-green">Kayana News</a>
             <a href="#" class="hover:text-green">Kayana Pro</a>
             <a href="/board" class="hover:text-green">Board of Directors</a>
             <a href="#" class="hover:text-green">Contact us</a>
