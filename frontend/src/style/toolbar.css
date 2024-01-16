@@ -1,0 +1,17 @@
+.rpv-thumbnail__list{
+  display: flex !important;
+  flex-direction: row !important;
+  width: 50% !important;
+}
+.rpv-default-layout__sidebar-headers {
+  /* Other styles for the element */
+
+  /* Override aria-orientation */
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.rpv-core__inner-container{
+  width: 50% !important;
+  height: 50% !important;
+}

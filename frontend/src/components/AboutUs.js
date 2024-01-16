@@ -115,7 +115,7 @@ const AboutUs = () => {
         <Numbers/>
         {/* The space */}
         <div class="relative container mx-auto mt-4">
-            <h3 class="text-gray text-1xl font-bold align-middle mb-4">KAYANA SPACE</h3>
+            <h3 class="text-gray text-2xl font-bold align-middle mb-4 lg:mt-6">KAYANA SPACE</h3>
             <div id="default-carousel" class="md:relative container px-4 my-0 mx-auto absolute" data-carousel="slide">
                 <div class="relative h-[60vh]  overflow-hidden">
                     <div class="hidden duration-700 ease-in-out" data-carousel-item>
@@ -150,7 +150,7 @@ const AboutUs = () => {
         <br class="md:hidden"></br>
         <br class="md:hidden"></br>
         {/* non members rates */}
-        <h5 class=" text-gray text-1xl font-bold align-middle md:mt-4">KAYANA SPACE RATES (NON-MEMBERS)</h5>
+        <h5 class=" text-gray text-2xl font-bold align-middle lg:pt-10">KAYANA SPACE RATES (NON-MEMBERS)</h5>
         <div class="container flex flex-col px-4 mx-auto mt-10 md:space-y-0 md:flex-row">
             <div class="flex flex-col justify-center items-center space-x-3 space-y-5 hover:scale-95 hover:border-1 hover:border-yellow hover:solid hover:shadow-lg hover:shadow-yellow md:w-1/3">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 h-10 fill-yellow ">
@@ -214,7 +214,7 @@ const AboutUs = () => {
             </a>
         </div>
          {/* members rates */}
-         <h5 class="text-gray mx-auto text-1xl font-bold align-middle mt-4">KAYANA SPACE RATES (MEMBERS)</h5>
+         <h5 class="text-gray mx-auto text-2xl font-bold align-middle lg:pt-10">KAYANA SPACE RATES (MEMBERS)</h5>
         <div class="container flex flex-col px-4 mx-auto mt-10 md:space-y-0 md:flex-row">
             <div class="flex flex-col justify-center items-center space-x-3 space-y-5 hover:scale-95 hover:border-1 hover:border-gray hover:solid hover:shadow-2xl hover:p-3 hover:shadow-lightGreen md:w-1/3">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 h-10 fill-green">
